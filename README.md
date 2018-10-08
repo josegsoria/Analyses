@@ -1,3 +1,3 @@
 # Analyses
 
-#Folder contains analyses, as the name suggests, for various photon-jet and jet-jet data.
+#The files will be updated as changes are made. As of now, they are all up to date.
